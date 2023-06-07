@@ -18,5 +18,4 @@ public class Ecommerce_dashboard {
     public static void main(String[] args) {
         new login().setVisible(true);
     }
-    
 }
